@@ -1,5 +1,5 @@
 ### 菜谱大全
-应用下载链接：[https://itunes.apple.com/cn/app/id1304995079?mt=8]()
+应用下载链接：[https://itunes.apple.com/cn/app/id1304995079?mt=8](https://itunes.apple.com/cn/app/id1304995079?mt=8)
 
 菜谱大全是一款全新的小白做菜必备烹饪助手。汇集了川菜、湘菜、鲁菜、东北菜等全国十多种菜系以及数十万道家常菜。简洁的页面+精美的图片+丰富详细的内容，让你更容易上手！
 
